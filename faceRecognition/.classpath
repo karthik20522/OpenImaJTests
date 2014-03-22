@@ -152,6 +152,7 @@
   <classpathentry kind="lib" path="C:\Users\karthik\.ivy2\cache\org.openimaj\nearest-neighbour\jars\nearest-neighbour-1.2.jar"/>
   <classpathentry kind="lib" path="C:\Users\karthik\.ivy2\cache\org.openimaj\image-feature-extraction\jars\image-feature-extraction-1.2.jar"/>
   <classpathentry kind="lib" path="C:\Users\karthik\.ivy2\cache\org.openimaj\machine-learning\jars\machine-learning-1.2.jar"/>
+  <classpathentry kind="lib" path="C:\Users\karthik\.ivy2\cache\joda-time\joda-time\jars\joda-time-2.1.jar"/>
   <classpathentry kind="lib" path="C:\Users\karthik\.ivy2\cache\de.bwaldvogel\liblinear-dense\jars\liblinear-dense-1.92.jar"/>
   <classpathentry kind="lib" path="C:\Users\karthik\.ivy2\cache\tw.edu.ntu.csie\libsvm\jars\libsvm-3.1.jar"/>
   <classpathentry kind="lib" path="C:\Users\karthik\.ivy2\cache\org.openimaj\klt-tracker\jars\klt-tracker-1.2.jar"/>
@@ -164,9 +165,6 @@
   <classpathentry kind="lib" path="C:\Users\karthik\.ivy2\cache\org.openimaj\xuggle-video\jars\xuggle-video-1.2.jar"/>
   <classpathentry kind="lib" path="C:\Users\karthik\.ivy2\cache\xuggle\xuggle-xuggler\jars\xuggle-xuggler-5.4.jar"/>
   <classpathentry kind="lib" path="C:\Users\karthik\.ivy2\cache\commons-cli\commons-cli\jars\commons-cli-1.1.jar"/>
-  <classpathentry kind="lib" path="C:\Users\karthik\.ivy2\cache\com.github.nscala-time\nscala-time_2.10\jars\nscala-time_2.10-0.8.0.jar"/>
-  <classpathentry kind="lib" path="C:\Users\karthik\.ivy2\cache\joda-time\joda-time\jars\joda-time-2.3.jar"/>
-  <classpathentry kind="lib" path="C:\Users\karthik\.ivy2\cache\org.joda\joda-convert\jars\joda-convert-1.2.jar"/>
   <classpathentry kind="lib" path="C:\Users\karthik\.ivy2\cache\org.specs2\specs2_2.10\jars\specs2_2.10-2.2.3.jar"/>
   <classpathentry kind="lib" path="C:\Users\karthik\.ivy2\cache\org.scalaz\scalaz-core_2.10\bundles\scalaz-core_2.10-7.0.2.jar"/>
   <classpathentry kind="lib" path="C:\Users\karthik\.ivy2\cache\org.scalaz\scalaz-concurrent_2.10\bundles\scalaz-concurrent_2.10-7.0.2.jar"/>
